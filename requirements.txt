@@ -1,0 +1,7 @@
+openai
+python-dotenv
+gTTS
+whisper
+torch
+ffmpeg-python
+playsound==1.2.2
